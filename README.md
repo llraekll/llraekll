@@ -8,7 +8,8 @@
 
 ### An individual who is passionate in Backend Development and desiging
 
-### ❄️ A self-taught Developer                                                                                
+### ❄️ A self-taught Developer 
+### ❄️ A fast learner
 
 
 
