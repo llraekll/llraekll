@@ -1,7 +1,7 @@
 
 # @llraekll
-![alt text](https://github.com/llraekll/llraekll/blob/main/images/-9g1w51.jpg?raw=true)
-### Hello, this is Rakshith 
+![alt text](https://github.com/llraekll/llraekll/blob/main/images/raek.jpg?raw=true)
+## Hello, this is Rakshith 
 
 
 ## About me
