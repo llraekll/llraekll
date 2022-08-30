@@ -10,7 +10,7 @@ ___
 
 ## About me
 
-### An individual who is passionate in Backend Development and desiging
+### An individual who is passionate about Backend Development and designing
 
 ### ❄️ A self-taught Developer 
 ### ❄️ A fast learner
