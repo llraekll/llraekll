@@ -1,6 +1,6 @@
 
 # @llraekll
-![alt text](https://github.com/llraekll/llraekll/blob/main/-9g1w51.jpg?raw=true)
+![alt text](https://github.com/llraekll/llraekll/blob/main/images/-9g1w51.jpgraw=true)
 ### Hello, this is Rakshith 
 
 
